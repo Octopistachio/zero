@@ -30,9 +30,7 @@
     <Framework weak="0">AdSupport.framework</Framework>
   </iosSystemFrameworks>
   <iosThirdPartyFrameworks/>
-  <androidPermissions>
-    <Permission>com.android.vending.BILLING</Permission>
-  </androidPermissions>
+  <androidPermissions/>
   <IncludedResources/>
   <files>
     <file>
